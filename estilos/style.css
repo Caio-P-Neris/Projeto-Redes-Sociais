@@ -34,12 +34,19 @@ section#telefone{
     background: url('../imagens/frame-iphone.png') no-repeat;
 }
 
-
-
 iframe#tela{
     position: relative;
     top: 80px;
     left: 22px;
     height: 471px;
     width: 269px;
+}
+
+section#redes-sociais{
+    text-align: right;
+}
+
+a{
+    width: 46px;
+    height: 46px;
 }
